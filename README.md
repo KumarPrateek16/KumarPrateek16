@@ -74,6 +74,8 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [FancyStore Microservices(GCP)](https://github.com/KumarPrateek16/GCP-GSP319) | Migrated monolithic e-commerce app to microservices on GKE | GKE, Docker, Cloud Build |
+| [ML Image Text Extraction(GCP)](https://github.com/KumarPrateek16/GCP-GSP329) | Extracted and translated text from images using Vision & Translation API, stored results in BigQuery | Vision API, Translation API, BigQuery, Python |
+
 
 ---
 
