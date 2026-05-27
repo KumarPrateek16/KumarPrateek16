@@ -10,7 +10,7 @@
 - ☁️ Cloud enthusiast working with **Google Cloud Platform**
 - 💻 Trying competitive problem solving on **LeetCode**
 - 📚 Always scavenging new skills — currently picking up **C++**
-- 🚀 Currently building an **End-to-End Encrypted Messenger Web App**
+- 🚀 Currently building **Multiple Web Apps**
 
 ---
 
