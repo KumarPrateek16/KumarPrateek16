@@ -9,7 +9,7 @@
 - 🔐 Deeply interested in **Cybersecurity** & **OSINT**
 - ☁️ Cloud enthusiast working with **Google Cloud Platform**
 - 💻 Trying competitive problem solving on **LeetCode**
-- 📚 Always scavenging new skills — currently picking up **C++**
+- 📚 Always scavenging new skills — currently picking up **Terraform**
 - 🚀 Currently building **Multiple Web Apps**
 
 ---
