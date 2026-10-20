@@ -8,7 +8,7 @@
 
 - 🔐 Deeply interested in **Cybersecurity** & **OSINT**
 - ☁️ Cloud enthusiast working with **Google Cloud Platform**
-- 💻 Trying competitive problem solving on **CodeChef**
+- 💻 Trying competitive problem solving on **CodeChef & CodeForces**
 - 📚 Always scavenging new skills — currently picking up **C++ for CP**
 - 🚀 Currently building **shh!! It's a secret..**
   
