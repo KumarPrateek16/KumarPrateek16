@@ -1,95 +1,81 @@
-# Hey there, I'm Prateek Kumar 👋
+<h1 align="center">Hi 👋, I'm Prateek Kumar Singh</h1>
 
-> 19 y/o developer passionate about breaking things apart and understanding how they work.
+<p align="center">
+  <strong><em>19 y/o developer who likes breaking things apart to understand how they work.</em></strong>
+  <br />
+  <em>Into cybersecurity, OSINT and cloud, currently learning Rust.</em>
+</p>
 
----
+## 🚀 About Me
 
-## 🧠 About Me
-
-- 🔐 Deeply interested in **Cybersecurity** & **OSINT**
+- 🔐 Deeply interested in **Cybersecurity** and **OSINT**
 - ☁️ Cloud enthusiast working with **Google Cloud Platform**
-- 💻 Trying competitive problem solving on **CodeChef & CodeForces**
-- 📚 Always scavenging new skills — currently picking up **C++ for CP**
-- 🚀 Currently building **shh!! It's a secret..**
-  
----
+- 💻 Practicing CP on **Codeforces** & learning **DSA**
+- 🛠️ Currently building something. Shh, it's a secret..!!!
 
-## 🛠️ Skills
+## 🧠 Featured Projects
 
-### Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ <a href="https://github.com/KumarPrateek16/GCP-GSP319">FancyStore Microservices</a></h3>
+      <p>Migrated a monolithic e-commerce app to microservices on GKE.</p>
+      <p><sub><code>GKE</code> · <code>Docker</code> · <code>Cloud Build</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/KumarPrateek16/GCP-GSP329">ML Image Text Extraction</a></h3>
+      <p>Extracted and translated text from images, then stored the results in BigQuery.</p>
+      <p><sub><code>Vision API</code> · <code>Translation API</code> · <code>BigQuery</code> · <code>Python</code></sub></p>
+    </td>
+  </tr>
+</table>
 
+## 🛠️ Tech Stack
 
+**Languages & Tools**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" />
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" title="Neovim" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" title="Wireshark" />
+  <img src="https://cdn.simpleicons.org/torproject/7D4698" width="48" height="48" alt="Tor" title="Tor" />
+</p>
 
-### Cloud & DevOps
+**Cloud & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![App Engine](https://img.shields.io/badge/App_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" title="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" />
+</p>
 
+**Interests**
 
-### Interests
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-222222?style=for-the-badge&logo=tor-project&logoColor=white)
-![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-0077B5?style=for-the-badge&logo=webflow&logoColor=white)
-![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game_Development-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<p>
+  <img src="interests.svg" alt="Interests: Cybersecurity, OSINT, FOSS, Cloud Computing, Machine Learning, Competitive Programming, Web Development, Game Development" />
+</p>
 
----
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://github.com/KumarPrateek16"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/kumarprateek16"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" title="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:prateek@webliano.tech"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" title="Email" /></a>
+</p>
 
-
-
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [FancyStore Microservices(GCP)](https://github.com/KumarPrateek16/GCP-GSP319) | Migrated monolithic e-commerce app to microservices on GKE | GKE, Docker, Cloud Build |
-| [ML Image Text Extraction(GCP)](https://github.com/KumarPrateek16/GCP-GSP329) | Extracted and translated text from images using Vision & Translation API, stored results in BigQuery | Vision API, Translation API, BigQuery, Python |
-
-
----
-
-## 📊 CP Stats
-
-Working on it...
-
----
-
-## 📬 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KumarPrateek16)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateek@webliano.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarprateek16)
-
----
-
-> *"The more I learn, the more I realize how much I don't know."*
+<br/>
+<p align="center">
+  <em>"The more I learn, the more I realize how much I don't know."</em>
+</p>
